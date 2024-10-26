@@ -107,6 +107,9 @@ As a junior web developer in an IT company, you are tasked with developing a ful
 
 ## Images
 
-![Image 1](path/to/image1.png)
-![Image 2](path/to/image2.png)
-![Image 3](path/to/image3.png)
+![Home](images/Home.png)
+![allCourses](images/allCourses.png)
+![courseDetails](images/courseDetails.png)
+![login](images/login.png)
+![profile](images/profile.png)
+
